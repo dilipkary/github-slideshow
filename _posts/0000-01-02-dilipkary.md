@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-here i created my first readme text file
+### New File Created
 Use the left arrow to go back!
